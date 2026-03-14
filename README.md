@@ -1,2 +1,2 @@
 # Distributed-Network-Computation
-This project allows for programs to be ran within the headers of packets traveling around a network. Allows for parallel computation.
+This project allows for programs to be ran faster by running them across multiple nodes
