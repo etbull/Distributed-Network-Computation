@@ -3,6 +3,7 @@
 #include <sys/socket.h>
 
 int main() {
+    printf("Worker Initiated!\n");
     int sock = socket(AF_INET, SOCK_DGRAM, 0);
 
     struct sockaddr_in me = {
